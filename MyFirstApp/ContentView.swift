@@ -13,7 +13,7 @@ struct ContentView: View {
         VStack {
             Text("Silly Goose")
                 .font(.title)
-                .foregroundColor(Color.black)
+                .foregroundColor(Color.pink)
             
             Image("SillyGoose")
                 .resizable(resizingMode: .stretch)
